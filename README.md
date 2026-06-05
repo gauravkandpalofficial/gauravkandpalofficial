@@ -1,5 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently working on Java, SQL, DBMS, and Computer Science projects<br><br>👯 I’m looking to collaborate on beginner-friendly open-source and educational projects<br><br>🤝 I’m looking for help with improving my software development and problem-solving skills<br><br>🌱 I’m currently learning Data Structures & Algorithms, DBMS, SQL, and Software Development<br><br>💬 Ask me about C, C++, Java, SQL, DBMS, and Computer Science fundamentals<br><br>⚡ Building "SIMPLIFYING CS" — documenting and simplifying Computer Science concepts as I learn them.<br>
+<h1>Hi 👋, I'm Gaurav Kandpal</h1>
+<h3>🎓 B.Tech CSE Student</h3>
+
+💻 Java | SQL | DBMS | C++ | DSA
+
+📚 Building "SIMPLIFYING CS"
+
+🚀 Learning, Building, and Sharing Computer Science Concepts
+
+💼 Open to Internship Opportunities
 
 
 ## 🌐 Socials:
