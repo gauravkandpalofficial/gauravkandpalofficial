@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java, SQL, DBMS, and Computer Science projects<br><br>👯 I’m looking to collaborate on beginner-friendly open-source and educational projects<br><br>🤝 I’m looking for help with improving my software development and problem-solving skills<br><br>🌱 I’m currently learning Data Structures & Algorithms, DBMS, SQL, and Software Development<br><br>💬 Ask me about C, C++, Java, SQL, DBMS, and Computer Science fundamentals<br><br>⚡ Fun fact: I believe knowledge grows when it is shared, so I enjoy documenting and simplifying what I learn<br>
+🔭 I’m currently working on Java, SQL, DBMS, and Computer Science projects<br><br>👯 I’m looking to collaborate on beginner-friendly open-source and educational projects<br><br>🤝 I’m looking for help with improving my software development and problem-solving skills<br><br>🌱 I’m currently learning Data Structures & Algorithms, DBMS, SQL, and Software Development<br><br>💬 Ask me about C, C++, Java, SQL, DBMS, and Computer Science fundamentals<br><br>⚡ Building "SIMPLIFYING CS" — documenting and simplifying Computer Science concepts as I learn them.<br>
 
 
 ## 🌐 Socials:
