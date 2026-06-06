@@ -8,13 +8,15 @@ B.Tech CSE Student | Aspiring Software Engineer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravkandpalofficial&label=Profile%20views&color=0e75b6&style=flat" alt="gauravkandpalofficial" /> </p>
 
 
-💻 Java | SQL | DBMS | C++ | DSA
+💻 Html | CSS | Javascript | SQL | DBMS | C++ | DSA
 
-📚 Building "SIMPLIFYING CS"
+🚀 Actively building projects and continuously improving my problem-solving skills
 
-🚀 Learning, Building, and Sharing Computer Science Concepts
+📚 Building "SIMPLIFYING CS" — simplifying and sharing Computer Science concepts
 
-💼 Open to Internship Opportunities
+🤝 I believe knowledge grows when it is shared
+
+<h4>Learning • Building • Sharing • Simplifying CS</h4>
 
 
 ## 🌐 Connect with me:
